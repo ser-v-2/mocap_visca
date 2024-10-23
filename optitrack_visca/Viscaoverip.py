@@ -684,7 +684,7 @@ class Camera:
     # other inquiry commands
 
 #Pruebas fase 1
-camarita1 = Camera("cam1", "192.168.1.89", 52381)
+"""camarita1 = Camera("cam1", "192.168.1.89", 52381)
 camarita2 = Camera("cam2", "192.168.1.90", 52381)
 print (f"Iniciando prueba fase 1")
 posx = float(input("Coordenadas x para las cámaras: "))
@@ -700,4 +700,4 @@ camarita1.pantilt(24, 24, pan1_calculado, tilt1_calculado, False)
 camarita2.pantilt(24, 24, pan2_calculado, tilt2_calculado, False)
 time.sleep(5)
 camarita1.zoom_to(1.8)
-camarita2.zoom_to(1.8)
+camarita2.zoom_to(1.8)"""

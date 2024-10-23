@@ -1,0 +1,13 @@
+/**:
+    ros__parameters:
+        camera1_ip: "192.168.1.89"
+        camera1_port: 52381
+       
+        
+        camera2_ip: "192.168.1.90"
+        camera2_port: 52381
+        
+
+        optitrack_x: 3.03
+        optitrack_y: 4.08
+        optitrack_z: 0.0
